@@ -139,8 +139,8 @@ A complete, production-ready **Hotel Booking Platform** built from scratch with 
 ## 🌐 Connect With Me
 
 - 💻 **GitHub:** [github.com/Hariommahida0052](https://github.com/Hariommahida0052)
-- 🔗 **LinkedIn:** [linkedin.com/in/hariom-mahida](https://www.linkedin.com/in/hariom-mahida/)
-- 📧 **Email:** [hetmahida353@gmail.com](mailto:hetmahida353@gmail.com)
+- 🔗 **LinkedIn:** [https://www.linkedin.com/in/hariom-mahida-7ba67a382/](https://www.linkedin.com/in/hariom-mahida-7ba67a382/)
+- 📧 **Email:** [hariommahida.svma@gmail.com](mailto:hariommahida.svma@gmail.com)
 
 ---
 
